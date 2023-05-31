@@ -9,8 +9,8 @@ To use this function, follow these steps:
 3. Set the desired tolerance for the error between subsequent iterations tol.
 4. Set the maximum number of iterations max_iter.
 5. Set the maximum number of iterations max_iter.
-6.Call the newton_raphson function with the function handles, initial guess, tolerance, and maximum number of iterations as arguments.
-7.The function will return the estimated root of the function and the number of iterations required to reach the root.
+6. Call the newton_raphson function with the function handles, initial guess, tolerance, and maximum number of iterations as arguments.
+7. The function will return the estimated root of the function and the number of iterations required to reach the root.
 
 Here's an example of how to use the newton_raphson function to find the root of the function f(x) = x^3 - x^2 + 2:
 
